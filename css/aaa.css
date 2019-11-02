@@ -10,5 +10,9 @@
     height: 200px;
     margin: 0 auto;
     background: pink;
+    
+}
+h3{
     color: aqua;
+    line-height: 40px;
 }
